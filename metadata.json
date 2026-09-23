@@ -1,0 +1,6 @@
+{
+  "name": "EV Cyber Academy - 2-Day Cyber Security Webinar",
+  "description": "Interactive, engineering-focused 2-Day Cyber Security Webinar presentation for EV Cyber Academy by Founder & CEO Vimal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
